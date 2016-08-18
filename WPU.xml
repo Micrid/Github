@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE squad SYSTEM "squad.dtd">
+<?xml-stylesheet href="squad.xsl?" type="text/xsl"?>
+<squad nick="WPU">
+<name>[WPU]Major Galushko</name>
+<email></email>
+<web></web>
+<picture>WPU.paa</picture>
+<title>We Protect You</title>
+<member id="76561200972015151" nick="[WPU]Major Galushko">
+<name></name>
+<email></email>
+<icq></icq>
+<remark></remark>
+</member>
+</squad>
